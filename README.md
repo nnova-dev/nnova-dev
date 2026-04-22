@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b> 👋 Hi, I'm Nnova!</b>
+  <b> 👋 Hi, I'm nnova!</b>
 </h1>
 
 Input:
